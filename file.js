@@ -26,7 +26,7 @@ ss.innerHTML=c
 
 
     grab.innerText="GRAB SOME HEALTHY BREAKFAST!!!"
-if(newhours>=12 && newhours<4 ){
+if(newhours>=12 && newhours<2 ){
     grab.innerText="LET'S HAVE SOME LUNCH !!"
     
 }else if(newhours>4 && newhours< 10){
